@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fauzan</h1>
-<h3 align="center">Studying Consistently is the Key</h3>
+<h1 align="start">Hi 👋, I'm Fauzan</h1>
+<h3 align="start">Studying Consistently is the Key</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
